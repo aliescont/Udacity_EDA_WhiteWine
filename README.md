@@ -8,8 +8,8 @@ This data set contains 1,599 red wines with 11 variables on the chemical propert
 https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityReds.csv.
 
 ## Structure
-RMD file, which contains plots, analysis 
-HTML file knitted from RMD file
+- RMD file, which contains plots, analysis.
+- HTML file knitted from RMD file
 
 ## Installation
 R Studio to change parameters or HTML file to visualise analysis submitted
