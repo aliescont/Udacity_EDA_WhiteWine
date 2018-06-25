@@ -12,4 +12,5 @@ https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityReds.csv.
 - HTML file knitted from RMD file
 
 ## Installation
-R Studio to change parameters or HTML file to visualise analysis submitted
+- HTML file is the output of analysis submitted done by R Studio.
+- RMD file was created on R Studio.
